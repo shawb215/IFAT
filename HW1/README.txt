@@ -1,0 +1,4 @@
+Author: Shawn Bray
+
+Short Description: (LOTR)
+The story centers around Frodo Baggins, a regular hobbit who suddenly finds himself with the massive responsibility of destroying the One Ring, an insanely powerful object made by the Dark Lord Sauron to take control of everything. Frodo teams up with an epic crew of companions, including elves, dwarves, humans, and fellow hobbits, as they travel through dangerous lands, face off against dark forces, and battle the Ring's ability to corrupt anyone who holds it. Throughout the journey, you see strong themes of friendship, bravery, sacrifice, and the classic fight between good and evil play out.

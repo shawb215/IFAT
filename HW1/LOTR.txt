@@ -1,0 +1,220 @@
+LOCATIONS
+
+Frodo's Home
+You are standing in your Home.
+
+The Shire
+You are standing in a peaceful valley of the hobbits. This is where your house is.
+
+Rivendell
+You are standing in a Elven refugee valley.
+
+Rohan
+You are standing in the kingdom of horsemen. Theoden the King of Rohan lives here.
+
+Isngard
+You have arrived to Isngard. There is a Fortress here.
+
+Lothlorien
+You are standing in Lothlorien. This is where Galadriel visits
+
+Courtyard
+You are in the courtyard of Lothlorien.
+
+Tower Stairs
+You are climbing the stairs to the tower. There is a locked door here.
+
+Tower
+You are inside a tower.
+
+
+Dungeon Stairs
+You are climbing the stairs down to the dungeon
+
+Dungeon
+You are in the dungeon. There is a hidden figure here.
+
+Sauron Throne Room
+This is the throne room of the dark lord Sauron.
+
+Fortress
+You are in the Fortress. There is a door here.
+
+Fortress Stairs
+You are climbing the stairs to the Fortress.
+
+Miskwood
+You are in the Miskwoods. Two friends reside here Legoles.
+
+Mordor
+You stand inside Morder. Mount Doom and Barad-dur is ahead.
+
+Mount Doom Stairs
+You are climbing the stairs into the opening of Mount Doom. There is a river of lava below you.
+
+Barad Dur Doom
+You are in Sauron's fortress. There is a door ahead or venture to Mount Doom.
+
+cliff of Mount Doom
+You stand on the cliff of Mount Doom. There is a laval pit here.
+
+The Afterlife
+You are dead. GAME OVER.
+
+nowhere
+Nowhere 
+
+
+ITEMS
+
+rose
+a red rose
+IT SMELLS GOOD. 
+
+fish
+a dead fish
+IT SMELLS TERRIBLE. 
+
+throne
+An ornate golden throne.
+ 
+Phial of Galadriel
+a strange magical light
+THE MAGICAL LIGHT IS GLOWING IN THE STAR GLASS .
+
+orc
+a orc guard carrying a sword and a key
+HE LOOKS AT YOU SUSPICIOUSLY. 
+
+troll
+a mean troll
+HE LOOKS HUNGRY. 
+
+locked door
+a locked door
+THE DOOR IS SECURELY LOCKED. 
+
+galadriel
+A Leader of the Sylcan elves.
+
+gollum
+Gollum, the darker, treacherous side, and Smeagol , claw-like fingers and who is wearing the ring of power.
+ 
+
+rosebush
+a rosebush
+THE ROSEBUSH CONTAINS A SINGLE RED ROSE.  IT IS BEAUTIFUL. 
+
+Elvish dagger
+a magic Elvish dagger, bright and power.
+IT LOOKS LIKE A MAGICAL Elvish dagger, FORGED BY EVLVES.
+
+pole
+a fishing pole
+A SIMPLE FISHING POLE. 
+
+pond
+a small fishing pond
+THERE ARE FISH IN THE POND. 
+
+rose
+a red rose
+IT SMELLS GOOD. 
+
+fish
+a dead fish
+IT SMELLS TERRIBLE. 
+
+unlocked door
+a door
+THE DOOR IS UNLOCKED. 
+
+lamp
+a lamp (unlit)
+A LAMP. 
+
+lamp (lit)
+a lamp (lit)
+A BIGHTLY LIT LAMP. 
+
+candle (lit)
+a lit candle
+THE CANDLE IS COVERED IN STARGE RUNES.  IT IS EMITTING A STRANGE, ACRID SMELLING SMOKE. 
+
+ring
+ring of power
+A POWERFUL RTNG FIT FOR A KING.
+
+ring (worn)
+ring of power
+A POWERFUL RTNG FIT FOR A KING.
+
+key
+a brass key
+THIS LOOKS USEFUL. 
+
+unconscious guard
+an unconscious guard is slumped against the wall
+HE HAS BITS OF BRANCH ON HIS UNIFORM. 
+
+galadriel
+A princess who is beautiful and lonely. 
+
+galadriel (married)
+A galadriel  who is beautiful and all powerful. 
+ 
+
+COMMANDS
+
+
+sit on throne 
+
+light candle 
+
+read runes 
+
+hit guard with Elvish dagger
+
+hit troll with Elvish dagger 
+
+give the troll the fish 
+
+unlock door 
+
+give rose to galadriel
+
+talk to galadriel 
+
+kiss galadriel 
+
+pick rose 
+
+catch fish 
+
+catch fish with pole 
+
+smell rose 
+
+eat fish 
+
+light lamp 
+
+shake phial
+
+wear ring 
+
+talk to galadriel 
+
+talk to galadriel about the gollum 
+
+talk to galadriel about the ring 
+
+talk to galadriel about herself 
+
+talk to galadriel about the throne 
+
+propose to the galadriel 
+
+kiss galadriel 
+
+kiss galadriel 
